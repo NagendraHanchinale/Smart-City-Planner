@@ -1,6 +1,6 @@
 # 🗺 Smart City Planner – A DSA-based City Mapping & Navigation System
 
-Welcome to the **Smart City Planner**, a console-based project built using **Data Structures and Algorithms** in C++. This project simulates a smart city navigation and management system, allowing users to explore city networks, manage urban data, and plan journeys efficiently.
+Welcome to the **Smart City Planner**, a console-based project built using **Data Structures and Algorithms** in C. This project simulates a smart city navigation and management system, allowing users to explore city networks, manage urban data, and plan journeys efficiently.
 
 ---
 
